@@ -280,6 +280,9 @@
   .mb-8 {
     margin-bottom: calc(var(--spacing) * 8);
   }
+  .mb-\[25px\] {
+    margin-bottom: 25px;
+  }
   .block {
     display: block;
   }
